@@ -1,0 +1,68 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #cccccc;
+}
+
+
+h1 {
+    font-size: 24px;
+    color: #000000;
+    text-align: center;
+    
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block; 
+    margin: 0 auto; 
+    border-radius: 15%;
+}
+
+
+.ket {
+    font-style: italic;
+    font-size: 14px;
+    color: #000000;
+}
+
+
+p {
+    margin: 10px 0;
+    line-height: normal;
+}
+
+
+
+h2 {
+    font-size: 16px;
+    color: #00008b;
+    margin-top: 32px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+
+.ket{
+    text-align: center;
+}
+
+
+
+a{
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+
+
+a:hover{
+    color: #0056b3;
+    text-decoration: underline;
+
+}
